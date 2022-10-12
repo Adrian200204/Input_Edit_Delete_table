@@ -1,0 +1,67 @@
+.left-main-side
+{
+    border-radius: 10px;
+    background-image: url('/Assets/v748-toon-75\ \(1\).jpg');
+    height: auto;
+    padding-top:50px;
+    width: 100%;
+}
+
+.input_nim
+{
+    border-width: 0.5px;
+    border-radius: 5px;
+    border-color: rgb(214, 214, 214);
+    background-color: whitesmoke;
+    color: black;
+    margin: 20px 0 5px 10px;
+}
+.input_nama
+{
+    border-width: 0.5px;
+    border-radius: 5px;
+    border-color: rgb(214, 214, 214);
+    background-color: whitesmoke;
+    color: black;
+    margin: 18px 0 7px 0px;
+}
+.nim{
+    text-align: center;
+}
+.nama
+{
+    text-align: center;
+}
+.btn-submit
+{ 
+    display: block;
+    margin: 15px auto;
+    padding: 3px 6px 2px 6px;
+    text-align: center;
+}
+.btn-submit:hover
+{
+    color: white;
+    background-color: rgba(47, 120, 255, 0.811);
+    transition: ease-in 0.1s;
+}
+.table-list
+{
+    background: #dfdfdf;
+}
+table, th, td
+{
+    border-color: rgba(0, 0, 0, 0.548);
+    border-style:solid;
+    border-width: 0.1px;
+}
+
+.made-by
+{
+    color: rgba(94, 94, 94, 0.699);
+    text-align: center;
+}
+.made-by:hover
+{
+    cursor:default;
+}

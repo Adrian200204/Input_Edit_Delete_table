@@ -1,0 +1,23 @@
+@import url("https://necolas.github.io/normalize.css/8.0.1/normalize.css");
+
+@import "/Style/left-side.css";
+
+html
+{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main-container
+{
+    background-color: rgba(181, 181, 181, 0.669);
+    height:auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
